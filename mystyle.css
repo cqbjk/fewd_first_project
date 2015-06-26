@@ -1,0 +1,21 @@
+/* I found a helpful site for css stuff:
+ http://www.w3schools.com/css/css_syntax.asp */
+
+h1 {
+	/* property: value; The property is what you're styling, 
+	and the value is how you are styling it. 
+	Property is color and value is red. */
+	color: red;
+	font-size: 35;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+p {
+	color: blue;
+	font-size: 25;
+	font-family: Arial;
+	font-style: italic;
+
+
+}
